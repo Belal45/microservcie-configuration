@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: Local
+
 eureka:
   client:
     service-url:
